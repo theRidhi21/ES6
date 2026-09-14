@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  background-color: #eeeeee;
+  margin: 20px;
+}
+
+h1 {
+  color: navy;
+}
+
+.box {
+  background-color: white;
+  border: 1px solid gray;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  padding: 5px;
+  width: 200px;
+}
+
+button {
+  padding: 8px;
+  background-color: navy;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: blue;
+}
+
+#msg {
+  color: red;
+  font-weight: bold;
+}
+
+canvas {
+  border: 1px solid #cccccc;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 200px;
+}
