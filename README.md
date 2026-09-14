@@ -41,3 +41,17 @@ Chart.js library is used to draw two graphs:
 
 https://api.openweathermap.org/data/2.5/weather
 https://api.openweathermap.org/data/2.5/forecast
+
+
+
+
+
+SCREENSHOTS:
+
+
+<img width="1280" height="679" alt="image" src="https://github.com/user-attachments/assets/6da578da-5a96-4f68-8229-967d9470c974" />
+
+
+<img width="926" height="1162" alt="image" src="https://github.com/user-attachments/assets/d3e28bf7-a97a-47e7-9f1a-abe11b4c741c" />
+
+
